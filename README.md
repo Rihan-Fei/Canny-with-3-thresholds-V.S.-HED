@@ -21,6 +21,9 @@ We use the following metrics to evaluate the model:
 - Mean Recall, Median Recall
 - Mean F1 Score, Median F1 Score
 
+## Layers Check
+We check how many layers in HED，and same as RELU fuction to see how the algorithm works. It contains 19 convolutional Layers, 13 RELU layers. Which use Vgg16 as backbones without pooling layer, and use 5 convolution layers without RELU，use skip connection convolution instead.
+
 ## References
 Xie, Saining and Tu, Zhuowen. "Holistically-Nested Edge Detection." Proceedings of the IEEE International Conference on Computer Vision, 2015.
 
