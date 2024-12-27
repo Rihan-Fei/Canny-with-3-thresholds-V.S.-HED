@@ -7,6 +7,9 @@ This project aims to compare the Canny edge detection algorithm with three diffe
 The dataset used for this project is sourced from Kaggle:
 [Berkeley Segmentation Dataset 500 (BSDS500)](https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500/data)
 
+## Canny method
+We provide the canny detection algorithm manually implemented to show how it works.
+
 ## Pretrained Model
 We load the pretrained model from:
 [HED GitHub Repository](https://github.com/s9xie/hed)
