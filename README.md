@@ -10,13 +10,13 @@ The dataset used for this project is sourced from Kaggle:
 ## Pretrained Model
 We load the pretrained model from:
 [HED GitHub Repository](https://github.com/s9xie/hed)
+You can download via this link.
 
 ## Evaluation Criteria
 We use the following metrics to evaluate the model:
-- Precision
-- Recall
-- Mean F1 Score
-- Median F1 Score
+- Mean Precision, Median Precision
+- Mean Recall, Median Recall
+- Mean F1 Score, Median F1 Score
 
 ## References
 Xie, Saining and Tu, Zhuowen. "Holistically-Nested Edge Detection." Proceedings of the IEEE International Conference on Computer Vision, 2015.
